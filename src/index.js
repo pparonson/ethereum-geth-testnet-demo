@@ -1,8 +1,5 @@
-// const {server} = require("./server");
 const {addNumber} = require("./sum");
 
-// server();
-
-const result = addNumber(4, 5);
+const result = addNumber(10, 5);
 
 console.log(result);
