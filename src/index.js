@@ -1,7 +1,7 @@
-const {server} = require("./server");
+// const {server} = require("./server");
 const {addNumber} = require("./sum");
 
-server();
+// server();
 
 const result = addNumber(4, 5);
 
